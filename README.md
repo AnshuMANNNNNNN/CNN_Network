@@ -45,7 +45,7 @@ To run this notebook on your local machine:
 ## 🧪 Example Results
 
 Below is the training accuracy and loss plot over epochs:
-![Test Accuracy predicted Plot](https://github.com/Ayush-07-cmd/Convolutional-Neural-Network-CNN-Network/blob/main/Predicted.png.png)
+![Test Accuracy predicted Plot](https://github.com/AnshuMANNNNNNN/CNN_Network/blob/main/download.png)
 
 ## 📈 Training Logs
 
